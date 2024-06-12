@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Vitor, 26 anos, Back-End em busca de fazer parte de um time de desenvolvimento . <strong>Aceita um café?☕</strong><br>
+  Vitor, 28 anos, Back-End em busca de fazer parte de um time de desenvolvimento . <strong>Aceita um café?☕</strong><br>
   <br>Estou sempre criando projetos para estudo e aprofundar meu conhecimento. Espero que goste de explorar meu perfil :)
 </p>
 
